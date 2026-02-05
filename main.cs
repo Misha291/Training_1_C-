@@ -1,6 +1,6 @@
 using System;
 
-namespace tran2
+namespace tran1
 {
     class Program
     {
