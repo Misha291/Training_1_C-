@@ -16,6 +16,8 @@ namespace tran1
            Console.Write($"Итоговая цена:{itog_price:F2}");
 
            Console.ReadKey();
+            // Это тестовый комментарий для проверки Git
+            Console.WriteLine("проверка");
         }
     }
 }
