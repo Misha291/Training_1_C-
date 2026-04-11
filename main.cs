@@ -21,3 +21,6 @@ namespace tran1
 }
 
 // Правка сделана прямо в браузере!
+
+// Изменение сделано из Visual Studio!
+Console.WriteLine("Работаю локально в ветке browser-edit");
